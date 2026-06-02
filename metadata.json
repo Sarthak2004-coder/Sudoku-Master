@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku",
+  "description": "A production-quality Sudoku app with dynamic grid sizes, hint walkthroughs, and custom puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

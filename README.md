@@ -107,7 +107,7 @@ Each technique returns a typed `SudokuHint` sealed class instance with a human-r
 
 | Home Screen | Game Board | Hint Explanation | Stats Screen | Custom Game Screen |
 |---|---|---|---|---|
-| `screenshots/Home.png` | `screenshots/Game.png` | `screenshots/Hint.png` | `screenshots/Stats.png` | `[screenshots/Custom Game.png](https://github.com/Sarthak2004-coder/Sudoku-Master/blob/main/screenshots/CustomGame.png)` |
+| <img src="screenshots/Home.png" width="200"/> | `screenshots/Game.png` | `screenshots/Hint.png` | `screenshots/Stats.png` | `[screenshots/Custom Game.png](https://github.com/Sarthak2004-coder/Sudoku-Master/blob/main/screenshots/CustomGame.png)` |
 
 
 

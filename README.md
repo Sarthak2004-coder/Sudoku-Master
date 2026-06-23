@@ -104,11 +104,10 @@ Each technique returns a typed `SudokuHint` sealed class instance with a human-r
 
 ## 📸 UI / UX Showcase
 
-> 📷 **Screenshots coming soon** — add your own below after capturing from device
 
 | Home Screen | Game Board | Hint Explanation | Stats Screen | Custom Game Screen |
 |---|---|---|---|---|
-| `screenshots/Home.png` | `screenshots/Game.png` | `screenshots/Hint.png` | `screenshots/Stats.png` | `screenshots/Custom Game.png` |
+| `screenshots/Home.png` | `screenshots/Game.png` | `screenshots/Hint.png` | `screenshots/Stats.png` | `[screenshots/Custom Game.png](https://github.com/Sarthak2004-coder/Sudoku-Master/blob/main/screenshots/CustomGame.png)` |
 
 
 

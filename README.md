@@ -158,5 +158,4 @@ Built by **Sarthak Jain** — B.E. graduate in AI & Data Science, Android Develo
 <div align="center">
   <sub>Built with ❤️ using Kotlin & Jetpack Compose</sub>
 </div>
-=======
 

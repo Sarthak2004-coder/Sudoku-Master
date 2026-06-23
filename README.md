@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 # 🧩 Sudoku Master
@@ -161,4 +160,3 @@ Built by **Sarthak Jain** — B.E. graduate in AI & Data Science, Android Develo
 </div>
 =======
 
->>>>>>> 41f4fba573fe339fa1ad42d730c034483d6235fd

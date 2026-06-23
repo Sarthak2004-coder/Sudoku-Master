@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🧩 Sudoku Master
@@ -105,11 +106,11 @@ Each technique returns a typed `SudokuHint` sealed class instance with a human-r
 
 > 📷 **Screenshots coming soon** — add your own below after capturing from device
 
-| Home Screen | Game Board | Hint Explanation | Stats Screen |
-|---|---|---|---|
-| `screenshots/home.png` | `screenshots/game.png` | `screenshots/hint.png` | `screenshots/stats.png` |
+| Home Screen | Game Board | Hint Explanation | Stats Screen | Custom Game Screen |
+|---|---|---|---|---|
+| `screenshots/Home.png` | `screenshots/Game.png` | `screenshots/Hint.png` | `screenshots/Stats.png` | `screenshots/Custom Game.png` |
 
-*To add screenshots: capture from your device/emulator, place `.png` files in a `/screenshots` folder in the repo root, and update the paths above.*
+
 
 ---
 
@@ -159,3 +160,6 @@ Built by **Sarthak Jain** — B.E. graduate in AI & Data Science, Android Develo
 <div align="center">
   <sub>Built with ❤️ using Kotlin & Jetpack Compose</sub>
 </div>
+=======
+
+>>>>>>> 41f4fba573fe339fa1ad42d730c034483d6235fd
